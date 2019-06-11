@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     //set random values to the 4 gems
-    var gem1 = Math.floor(Math.random() * 9) + 1;
+    var gem1 = Math.floor(Math.random() * 9) + 1; 
     var gem2 = Math.floor(Math.random() * 59) + 11;
     var gem3 = Math.floor(Math.random() * 220) + 60;
     var gem4 = Math.floor(Math.random() * 555) + 221;
@@ -61,8 +61,7 @@ $(document).ready(function () {
         console.log(gem1);
         console.log(gem2);
         console.log(gem3);
-        console.log(gem4);
-        
+        console.log(gem4);   
     }
 
     //tie reset function to button        
