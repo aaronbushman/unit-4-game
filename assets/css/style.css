@@ -59,6 +59,26 @@ a:active {
     font-size: 18px;
 }
 
+#losses1 {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#wins1 {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#losses2 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#wins2 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
 .card {
     margin: 0 auto;
     float: none;
