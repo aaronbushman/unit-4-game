@@ -1,0 +1,60 @@
+body {
+    color: hsl(39, 60%, 83%);
+    background: rgb(61, 63, 60);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:link {
+    color: rgb(221, 221, 221);
+}
+
+a:visited {
+    color: rgb(192, 192, 192);
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: #b97220;
+}
+
+#barimage {
+    width: 100%;
+    
+}
+
+#headerbar {
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    height: 50px; 
+}
+
+#title {
+    color: #f3b749;
+    font-weight: bolder;
+    font-size: 45px;
+    text-align: center;
+}
+
+#gscore {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#yscore {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#gtotal {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#ytotal {
+    font-weight: bold;
+    font-size: 18px;
+}
