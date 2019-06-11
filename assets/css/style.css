@@ -22,7 +22,7 @@ a:active {
 
 #barimage {
     width: 100%;
-    
+    border: 0;
 }
 
 #headerbar {
@@ -83,4 +83,8 @@ a:active {
     margin: 0 auto;
     float: none;
     margin-bottom: 10px;
+}
+
+img {
+    border: 3px solid #b97220;
 }
